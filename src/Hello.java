@@ -6,4 +6,6 @@ public class Hello {
 
     // new line added by teammate
     // testing new changes
+
+    // new line 4
 }
